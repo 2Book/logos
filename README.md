@@ -5,41 +5,31 @@
 Massagebook Logo
 ======================
 
-## Business vs. Public
-<table>
-    <thead>
-        <th>
-            <span style="color:#EF5A2F">Business</span>
-        </th>
-        <th>
-            Public
-        </th>
-    </thead>
-    <tr>
-        <td>
-            Orange<br>
-            #EF5A2F
-        </td>
-        <td>
-            Green (" Teal ")<br>
-            #00BCC0
-        </td>
-    </tr>
-</table>
+## Color Schemes
+#### BUSINESS
+![Business Color Orange](./docs/color_orange.svg)
+Business Color Orange = `#EF5A2F`
 
-## Logo vs. Icon
+#### PUBLIC
+![Business Color Orange](./docs/color_green.svg)
+Public Color Green ("Teal") = `#00BCC0`
+
+---
 
 ## Table of content
 
 - [Logo](#Logo)
-    - [Business](#logo-business)
-    - [Public User](#logo-public_user)
+    - [Logo Business](#logo-business)
+    - [Logo Public User](#logo-public_user)
 - [Icon](#Icon)
-    - [Business](#icon-business)
-    - [Public User](#icon-public_user)
-- [File Formats](#file-formats)
-    - [SVG](#svg)
-    - [PNG](#png)
+    - [Icon Business](#icon-business)
+    - [Icon Public User](#icon-public_user)
+- [White](#White)
+    - [White Logo](#White-Logo)
+    - [White Icon](#White-Icon)
+- [File Formats](#File-Formats)
+    - [SVG](#SVG)
+    - [PNG](#PNG)
 - [License](#license)
 - [Links](#links)
 
@@ -49,18 +39,18 @@ Massagebook Logo
 <table cellpadding=2 cellspacing=2>
     <tr>
         <td>
-            <h2>Business Owners</h2>
+            <h2>Logo Business</h2>
             <h3>Orange</h3>
-            <h5>#123abc</h5>
+            <h5>#EF5A2F</h5>
             This logo color scheme is intended for Business Owners
         </td>
         <td>
             <table>
                 <tr>
-                    <td><img src="./SVG/MB_Logo_Orange.svg" alt="2" width=330px height=130px></td>
+                    <td><img src="./SVG/MB_Logo_Orange.svg" alt="Massagebook Logo Business Orange" width=330px height=130px></td>
                 </tr>
                 <tr>
-                    <td><img src="./SVG/_inverted/MB_Logo_Orange--inverted.svg" alt="2" width=330px height=130px></td>
+                    <td><img src="./SVG/_inverted/MB_Logo_Orange--inverted.svg" alt="Massagebook Logo Inverted Business Orange" width=330px height=130px></td>
                 </tr>
             </table>
         </td>
@@ -69,18 +59,18 @@ Massagebook Logo
 <table cellpadding=2 cellspacing=2>
     <tr>
         <td width=330px>
-            <h2>Public Users</h2>
-            <h4>Green  <sup>(" Teal ")</sup></h4> 
-            <h4>Public Users</h4>
+            <h2>Logo Public</h2>
+            <h3>Green  <sup>(" Teal ")</sup></h3> 
+            <h5>#00BCC0</h5>
             This logo color scheme is intended for Public Users
         </td>
         <td>
             <table>
                 <tr>
-                    <td><img src="./SVG/MB_Logo_Green.svg" alt="2" width=330px height=130px></td>
+                    <td><img src="./SVG/MB_Logo_Green.svg" alt="Massagebook Logo Public Green Teal" width=330px height=130px></td>
                 </tr>
                 <tr>
-                    <td><img src="./SVG/_inverted/MB_Logo_Green--inverted.svg" alt="2" width=330px height=130px></td>
+                    <td><img src="./SVG/_inverted/MB_Logo_Green--inverted.svg" alt="Massagebook Logo Inverted Public Green Teal" width=330px height=130px></td>
                 </tr>
             </table>
         </td>
@@ -95,18 +85,18 @@ Massagebook Logo
 <table cellpadding=2 cellspacing=2>
     <tr>
         <td>
-            <h2>Business Owners</h2>
+            <h2>Icon Business</h2>
             <h3>Orange</h3>
-            <h5>#123abc</h5>
-            This logo color scheme is intended for Business Owners
+            <h5>#EF5A2F</h5>
+            This icon color scheme is intended for Business Owners
         </td>
         <td>
             <table>
                 <tr>
-                    <td><img src="./SVG/MB_Logo_Orange_Icon.svg" alt="2" width=330px height=130px></td>
+                    <td><img src="./SVG/MB_Logo_Orange_Icon.svg" alt="Massagebook Icon Business Orange" width=330px height=130px></td>
                 </tr>
                 <tr>
-                    <td><img src="./SVG/_inverted/MB_Logo_Green_Icon--inverted.svg" alt="2" width=330px height=130px></td>
+                    <td><img src="./SVG/_inverted/MB_Logo_Orange_Icon--inverted.svg" alt="Massagebook Icon Inverted Business Orange" width=330px height=130px></td>
                 </tr>
             </table>
         </td>
@@ -115,18 +105,18 @@ Massagebook Logo
 <table cellpadding=2 cellspacing=2>
     <tr>
         <td width=330px>
-            <h2>Public Users</h2>
-            <h4>Green  <sup>(" Teal ")</sup></h4> 
-            <h4>Public Users</h4>
-            This logo color scheme is intended for Public Users
+            <h2>Icon Public</h2>
+            <h3>Green  <sup>(" Teal ")</sup></h3> 
+            <h5>#00BCC0</h5>
+            This icon color scheme is intended for Public Users
         </td>
         <td>
             <table>
                 <tr>
-                    <td><img src="./SVG/MB_Logo_Green_Icon.svg" alt="2" width=330px height=130px></td>
+                    <td><img src="./SVG/MB_Logo_Green_Icon.svg" alt="Massagebook Icon Public Green Teal" width=330px height=130px></td>
                 </tr>
                 <tr>
-                    <td><img src="./SVG/_inverted/MB_Logo_Green_Icon--inverted.svg" alt="2" width=330px height=130px></td>
+                    <td><img src="./SVG/_inverted/MB_Logo_Green_Icon--inverted.svg" alt="Massagebook Icon Inverted Public Green Teal" width=130px height=130px></td>
                 </tr>
             </table>
         </td>
@@ -135,9 +125,56 @@ Massagebook Logo
 
 ---
 
+## White
+`White` Logos and Icons should only be used on a colored background
+
+<table cellpadding=2 cellspacing=2>
+    <tr>
+        <td>
+            <h2>White Logo</h2>
+            <h5>#FFFFFF</h5>
+            Only use white logo on a colored background
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td>Only use white logo on a colored background</td>
+                </tr>
+                <tr>
+                    <td><img src="./SVG/_white/MB_Logo_White.svg" alt="2" width=130px height=130px></td>
+                </tr>
+            </table>
+        </td>
+    </tr> 
+</table>
+<table cellpadding=2 cellspacing=2>
+    <tr>
+        <td>
+            <h2>White Icon</h2>
+            <h5>#FFFFFF</h5>
+            Only use white icon on a colored background
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td>Only use white icon on a colored background</td>
+                </tr>
+                <tr>
+                    <td><img src="./SVG/_white/MB_Logo_White_Icon_Square.svg" alt="2" width=130px height=130px></td>
+                </tr>
+            </table>
+        </td>
+    </tr> 
+</table>
+
+---
+
+---
+
 ## File Formats
+#### SVG
 `SVG`
 It is best to use SVG for lossless pixelation scaled at any size.
-
+#### PNG
 `PNG`
 PNG is only to be used as a fallback when SVG is not supported. When using PNG's, be sure to specify sizes in PX format. 
