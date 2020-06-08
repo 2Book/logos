@@ -30,8 +30,8 @@ Public Color Green ("Teal") = `#00BCC0`
 - [File Formats](#File-Formats)
     - [SVG](#SVG)
     - [PNG](#PNG)
-- [License](#license)
-- [Links](#links)
+
+---
 
 ## Logo
 `Logo` terminology refers to the full logo with **both** the icon and the company name
@@ -93,10 +93,10 @@ Public Color Green ("Teal") = `#00BCC0`
         <td>
             <table>
                 <tr>
-                    <td><img src="./SVG/MB_Logo_Orange_Icon.svg" alt="Massagebook Icon Business Orange" width=330px height=130px></td>
+                    <td><img src="./SVG/MB_Logo_Orange_Icon.svg" alt="Massagebook Icon Business Orange" width=130px height=130px></td>
                 </tr>
                 <tr>
-                    <td><img src="./SVG/_inverted/MB_Logo_Orange_Icon--inverted.svg" alt="Massagebook Icon Inverted Business Orange" width=330px height=130px></td>
+                    <td><img src="./SVG/_inverted/MB_Logo_Orange_Icon--inverted.svg" alt="Massagebook Icon Inverted Business Orange" width=130px height=130px></td>
                 </tr>
             </table>
         </td>
@@ -113,7 +113,7 @@ Public Color Green ("Teal") = `#00BCC0`
         <td>
             <table>
                 <tr>
-                    <td><img src="./SVG/MB_Logo_Green_Icon.svg" alt="Massagebook Icon Public Green Teal" width=330px height=130px></td>
+                    <td><img src="./SVG/MB_Logo_Green_Icon.svg" alt="Massagebook Icon Public Green Teal" width=130px height=130px></td>
                 </tr>
                 <tr>
                     <td><img src="./SVG/_inverted/MB_Logo_Green_Icon--inverted.svg" alt="Massagebook Icon Inverted Public Green Teal" width=130px height=130px></td>
@@ -133,7 +133,6 @@ Public Color Green ("Teal") = `#00BCC0`
         <td>
             <h2>White Logo</h2>
             <h5>#FFFFFF</h5>
-            Only use white logo on a colored background
         </td>
         <td>
             <table>
@@ -141,7 +140,7 @@ Public Color Green ("Teal") = `#00BCC0`
                     <td>Only use white logo on a colored background</td>
                 </tr>
                 <tr>
-                    <td><img src="./SVG/_white/MB_Logo_White.svg" alt="2" width=130px height=130px></td>
+                    <td><img src="./SVG/_white/MB_Logo_White.svg" alt="2" width=330px height=130px></td>
                 </tr>
             </table>
         </td>
@@ -152,7 +151,6 @@ Public Color Green ("Teal") = `#00BCC0`
         <td>
             <h2>White Icon</h2>
             <h5>#FFFFFF</h5>
-            Only use white icon on a colored background
         </td>
         <td>
             <table>
@@ -166,8 +164,6 @@ Public Color Green ("Teal") = `#00BCC0`
         </td>
     </tr> 
 </table>
-
----
 
 ---
 
