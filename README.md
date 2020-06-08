@@ -16,7 +16,7 @@ Public Color Green ("Teal") = `#00BCC0`
 
 ---
 
-## Table of content
+## Table of contents
 
 - [Logo](#Logo)
     - [Logo Business](#logo-business)
@@ -170,7 +170,7 @@ Public Color Green ("Teal") = `#00BCC0`
 ## File Formats
 #### SVG
 `SVG`
-It is best to use SVG for lossless pixelation scaled at any size.
+It is best to use SVG for lossless pixelation scaled at any size. Referred to as "Vector" format.
 #### PNG
 `PNG`
-PNG is only to be used as a fallback when SVG is not supported. When using PNG's, be sure to specify sizes in PX format. 
+PNG is only to be used as a fallback when SVG is not supported. When using PNG's, be sure to specify sizes in PX format. Referred to as "Raster" format.
