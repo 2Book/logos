@@ -5,6 +5,30 @@
 Massagebook Logo
 ======================
 
+## Business vs. Public
+<table>
+    <thead>
+        <th>
+            <span style="color:#EF5A2F">Business</span>
+        </th>
+        <th>
+            Public
+        </th>
+    </thead>
+    <tr>
+        <td>
+            Orange<br>
+            #EF5A2F
+        </td>
+        <td>
+            Green (" Teal ")<br>
+            #00BCC0
+        </td>
+    </tr>
+</table>
+
+## Logo vs. Icon
+
 ## Table of content
 
 - [Logo](#Logo)
