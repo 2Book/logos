@@ -111,71 +111,9 @@ Massagebook Logo
 
 ---
 
-## LOGO FORMATS
+## File Formats
 `SVG`
 It is best to use SVG for lossless pixelation scaled at any size.
 
 `PNG`
 PNG is only to be used as a fallback when SVG is not supported. When using PNG's, be sure to specify sizes in PX format. 
-
----
----
----
----
-
-# PUBLIC
-#### `Green` (" Teal ")
-This logo color scheme is intended for Public Users
-
-## LOGO
-![logo-green](./SVG/MB_Logo_Green.svg)
-
-> ![Blockquote](./SVG/_inverted/MB_Logo_Green--inverted.svg)
-
-## ICON
-![logo-green](./SVG/MB_Logo_Green_Icon.svg)
-
-> ![Blockquote](./SVG/_inverted/MB_Logo_Green_Icon--inverted.svg)
-
----
-
-
-<table>
-    <tr>
-        <td style="background:black;">
-            <img style="background:black;" src="./PNG/MB_Logo_Green.png"  alt="Logo" width=330px height=330px>
-        </td>
-        <td><img src="img2.png" alt="2" width=330px height=330px></td>
-    </tr> 
-    <tr>
-        <td><img src="./Scshot/cab_arrived.png" alt="3" width=330px height=330px></td>
-        <td><img src="./Scshot/trip_end.png" align="right" alt="4" width=330px height=330px></td>
-    </tr>
-</table>
-
-
----
-
-<style>
-    table {width: 100%;}
-</style>
-<table>
-<tbody>
-<tr>
-<th>
-Dark
-</th>
-<th>
-Light
-</th>
-</tr>
-<tr>
-<td>
-![screenshot](./PNG/favicon-green.png)
-</td>
-<td>
-![screenshot](./PNG/favicon-green.png)
-</td>
-</tr>
-</tbody>
-</table>
